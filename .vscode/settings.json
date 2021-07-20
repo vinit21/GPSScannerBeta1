@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/52eb045f-8415-4527-91d9-9ed5aabaa0a1/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/TeamsTabGPS",
+    "appService.deploySubpath": "."
+}
